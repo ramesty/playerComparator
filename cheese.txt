@@ -1,0 +1,33 @@
+p1">
+<div>
+<span class="poptip" data-tip="Games"><strong>G</strong></span><p>56</p>
+<p>1366</p></div>
+
+<div>
+<span class="poptip" data-tip="Points"><strong>PTS</strong></span><p>30.3</p>
+<p>27.1</p></div>
+
+<div>
+<span class="poptip" data-tip="Total Rebounds"><strong>TRB</strong></span><p>8.2</p>
+<p>7.5</p></div>
+
+<div>
+<span class="poptip" data-tip="Assists"><strong>AST</strong></span><p>6.2</p>
+<p>7.4</p></div>
+</div><div class="p2">
+<div>
+<span class="poptip" data-tip="Field Goal Percentage"><strong>FG%</strong></span><p>52.4</p>
+<p>50.5</p></div>
+
+<div>
+<span class="poptip" data-tip="3-Point Field Goal Percentage"><strong>FG3%</strong></span><p>35.9</p>
+<p>34.6</p></div>
+
+<div>
+<span class="poptip" data-tip="Free Throw Percentage"><strong>FT%</strong></span><p>75.6</p>
+<p>73.4</p></div>
+
+<div>
+<span class="poptip" data-tip="<strong>Effective Field Goal Percentage</strong><br>This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal."><strong>eFG%</strong></span><p>59.0</p>
+<p>54.5</p></div>
+</div><div class="p3
